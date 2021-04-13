@@ -3,12 +3,12 @@
 h1, h2 {
   font-family: 'Redressed', cursive;
   color: #63686a;
- 
+  text-align: center;
 }
 
 body {
   background-color: #fff0c3;
-  
+  text-align: center;
 }
 
 .roboto {
