@@ -3,19 +3,26 @@
 h1, h2 {
   font-family: 'Redressed', cursive;
   color: #63686a;
-  text-align: center;
 }
 
+h1 {
+  text-align: center;
+}
+#pancake-img {
+  text-align: center;
+}
 body {
   background-color: #fff0c3;
-  text-align: center;
+  
 }
 
 .roboto {
  font-family: 'Roboto', sans-serif;
 }
 
-ol, ul {
-  list-style-type: none;
+.recipe {
+  padding-left: 350px;
 }
+
+
 
