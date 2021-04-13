@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Roboto:ital,wght@1,300&display=swap');
+
+h1, h2 {
+  font-family: 'Redressed', cursive;
+  color: #63686a;
+ 
+}
+
+body {
+  background-color: #fff0c3;
+  
+}
+
+.roboto {
+ font-family: 'Roboto', sans-serif;
+}
+
+ol, ul {
+  list-style-type: none;
+}
+
